@@ -1,0 +1,6 @@
+Esta es la primera línea.
+Esta es la segunda línea.
+La tercera línea es diferente.
+La cuarta línea tiene algo especial.
+Otra línea interesante es la quinta.
+Y esta es la sexta línea.
